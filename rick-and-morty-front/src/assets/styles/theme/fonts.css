@@ -1,0 +1,38 @@
+
+/* Regular Fonts */
+
+/* Rampart One */
+@font-face {
+    font-family: 'Rampart-One';
+    src: url('../../fonts/RampartOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Almarai */
+@font-face {
+    font-family: 'Almarai';
+    src: url('../../fonts/Almarai-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Inter */
+@font-face {
+    font-family: 'Inter';
+    src: url('../../fonts/Inter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Quicksand */
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../../fonts/Quicksand-VariableFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+
+
+

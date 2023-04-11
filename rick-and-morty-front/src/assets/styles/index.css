@@ -1,0 +1,18 @@
+
+@import url("./theme/fonts.css");
+/* reset styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+    user-select: none;
+}
+
+
+body {
+    background-color: #040B1D;
+}
+
